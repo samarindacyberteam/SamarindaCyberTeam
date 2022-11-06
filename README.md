@@ -1,16 +1,29 @@
-### Hi there 👋
+# Cam-Hackers
 
-<!--
-**samarindacyberteam/SamarindaCyberTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hack Cameras
 
-Here are some ideas to get you started:
+<h3> Mode Of Execution: </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* apt-get install python3
+
+* apt-get install git
+
+* git clone https://github.com/samarindacyberteam/SamarindaCyberTeam
+
+* cd samarindacyberteam
+
+* pip install -r requirements.txt
+
+* python3 cam-hackers.py
+
+# SCT-HACKERS
+
+<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto.png">
+
+# SCT-HACKERS
+
+<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
+
+<h3> Paypal donations: </h3>
+
+* https://www.paypal.com/paypalme/AngelSecTeam
