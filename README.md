@@ -14,7 +14,7 @@ Hack Cameras
 
 * pip install -r requirements.txt
 
-* python3 cam-hackers.py
+* python3 sct-hackers.py
 
 # SCT-HACKERS
 
