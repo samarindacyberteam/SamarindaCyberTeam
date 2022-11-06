@@ -1,4 +1,4 @@
-# Cam-Hackers
+# Cam-Hack
 
 Hack Cameras
 
@@ -10,7 +10,7 @@ Hack Cameras
 
 * git clone https://github.com/samarindacyberteam/SamarindaCyberTeam.git
 
-* cd samarindacyberteam
+* cd SamarindaCyberTeam
 
 * pip install -r requirements.txt
 
@@ -19,5 +19,5 @@ Hack Cameras
 # SCT-HACKERS
 
 
-<h3> Paypal donations: </h3>
+</h3> GALVER77 </h3>
 
