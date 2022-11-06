@@ -8,7 +8,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/samarindacyberteam/SamarindaCyberTeam
+* git clone https://github.com/samarindacyberteam/SamarindaCyberTeam.git
 
 * cd samarindacyberteam
 
